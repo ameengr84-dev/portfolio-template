@@ -1,19 +1,30 @@
 {
-    "name": "Your Name",
-    "tagline": "Your one-line introduction",
-    "bio": "Write 2 or 3 sentences about yourself.",
-    "skills": [
-        "Git",
-        "HTML"
-    ],
-    "projects": [
-        {
-            "title": "My first project",
-            "desc": "What it does.",
-            "link": "https://github.com/yourname"
-        }
-    ],
-    "links": {
-        "github": "https://github.com/yourname"
+  "name": "AMEEN MOHAMMED TP",
+  "tagline": "ECE Student | Coding Enthusiast | Hardware-Software Integration",
+  "bio": "I'm an Electronics and Communication Engineering student fascinated by both hardware and software aspects of technology. I enjoy programming, solving logical problems, exploring electronic systems, and understanding how software and hardware work together. I'm particularly interested in coding and experimenting with electronics, constantly learning and building things that challenge my engineering skills.",
+  "skills": [
+    "C",
+    "Python",
+    "Java",
+    "Verilog",
+    "LTspice",
+    "Digital Electronics",
+    "HTML",
+    "CSS"
+  ],
+  "projects": [
+    {
+      "title": "Digital Fire Detection and Alarm System",
+      "desc": "An electronic fire detection system using temperature sensing, comparator logic, an D Flip-flop, and a 555 timer to provide a persistent visual and audible alarm.",
+      "link": "Not Published yet"
+    },
+    {
+      "title": "Arduino-Based Braille Keyboard",
+      "desc": "An assistive technology project designed to help visually impaired users interact with a keyboard through Braille input and audio feedback.",
+      "link": "Not Published yet"
     }
+  ],
+  "links": {
+    "github": "https://github.com/ameengr84-dev"
+  }
 }
