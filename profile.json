@@ -16,15 +16,18 @@
     {
       "title": "Digital Fire Detection and Alarm System",
       "desc": "An electronic fire detection system using temperature sensing, comparator logic, an D Flip-flop, and a 555 timer to provide a persistent visual and audible alarm.",
-      "link": "Not Published yet"
+      "link": ""
     },
     {
       "title": "Arduino-Based Braille Keyboard",
       "desc": "An assistive technology project designed to help visually impaired users interact with a keyboard through Braille input and audio feedback.",
-      "link": "Not Published yet"
+      "link": ""
     }
   ],
   "links": {
-    "github": "https://github.com/ameengr84-dev"
+  "github": "https://github.com/ameengr84-dev",
+  "linkedin": "https://www.linkedin.com/in/ameen-mohammed-tp-716447387",
+  "email": "mailto:ameengr84@gmail.com",
+  "phone": "tel:+919400475960"
   }
 }
