@@ -242,3 +242,49 @@ footer {
     }
 }
 ```
+/* Hero Label */
+
+.hero-label,
+.section-label {
+    color: var(--accent2);
+    font-size: 0.75rem;
+    letter-spacing: 3px;
+    font-weight: 700;
+}
+
+/* Scroll Indicator */
+
+.scroll-indicator {
+    margin-top: 55px;
+    color: var(--muted);
+    font-size: 0.7rem;
+    letter-spacing: 2px;
+}
+
+.scroll-line {
+    height: 35px;
+    width: 1px;
+    background: linear-gradient(var(--accent2), transparent);
+    margin: 12px auto;
+}
+
+/* Section Styling */
+
+section p:not(.section-label) {
+    color: var(--muted);
+}
+
+/* Footer */
+
+.back-to-top {
+    display: inline-block;
+    margin-top: 15px;
+    color: var(--accent2);
+    text-decoration: none;
+    font-size: 0.8rem;
+    letter-spacing: 2px;
+}
+
+.back-to-top:hover {
+    color: var(--accent);
+}
